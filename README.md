@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey 👋
+![snake gif](https://github.com/NyKRiX/NyKRiX/blob/main/dist/snake.svg)
 
 <!--
 **NyKRiX/NyKRiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
