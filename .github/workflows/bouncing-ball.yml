@@ -1,14 +1,14 @@
-name: generate animation
+name: bouncing ball
 
 on:
-  # Run automatically every 24 hours
+  # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *"
 
-  # Allows manual run
+  # allows manual run
   workflow_dispatch:
 
-  # Run on every push to main
+  # run on every push to main
   push:
     branches:
       - main
